@@ -1,6 +1,6 @@
 # Azure App Service Hello
 
-This a simple "Hello, World!" using Python to test Microsoft Azure App Service.
+This a simple "Hello, earth!" using Python to test Microsoft Azure App Service.
 
 * The App Service is running Linux and Python 3.12.
 * The App Service is running the Free Plan.
